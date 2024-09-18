@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(15, 216, 243);
+}
+footer {
+    background-color: rgb(11, 133, 214);
+    color: rgba(48, 127, 218, 0.342);
+}
+footer {
+    background-color: rgb(221, 8, 8);
+    color: rgb(12, 53, 187);
+    bottom:0;
+    position:fixed;
+    width:100%;
+}
+footer p{
+    text-align: center;
+    font-size: 0.6rem;
+}
